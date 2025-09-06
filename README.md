@@ -34,14 +34,39 @@ This project demonstrates how to containerize an app, connect it to a PostgreSQL
 ```bash
 # Build and start containers
 docker-compose up --build
+```
 
----
 ## Deploy on Minikube
 
 1. Start Minikube:
 
 ```bash
 minikube start
+
+kubectl apply -f k8s/
+
+kubectl get pods -n nodejs-app
+```
+## Access the Node.js application in your browser
+```bash
+minikube service nodejs-app-service -n nodejs-app
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
