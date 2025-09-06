@@ -62,7 +62,7 @@ During this project, I gained hands-on experience with:
 - **Kubernetes (Minikube)**: Deploying apps using Deployments, Services, PersistentVolumes, and PersistentVolumeClaims.
 - **Environment Variables**: Configuring the app to securely connect to the database.
 - **Debugging & Networking**: Understanding how pods communicate in Kubernetes and solving connectivity issues (`EAI_AGAIN`, service discovery).
-- **Comming**: Preparing the app for cloud deployment (ECS / AWS) and learning about RDS connections and credentials.
+- **Comming**: Preparing the app for cloud deployment (ECS / ECR) and learning about RDS connections and credentials.
 
 
 # Contact / Support
