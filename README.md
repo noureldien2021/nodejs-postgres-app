@@ -64,7 +64,7 @@ During this project, I gained hands-on experience with:
 - **Git & GitHub**: Structuring a project repository, writing a professional README, and version controlling the project.
 - **Optional**: Preparing the app for cloud deployment (ECS / AWS) and learning about RDS connections and credentials.
 
-> This project helped me understand real-world application deployment workflows, from local development to Kubernetes orchestration.
+
 
 
 
