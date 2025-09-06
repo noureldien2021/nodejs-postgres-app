@@ -1,6 +1,6 @@
 # Node.js + PostgreSQL App
 
-A simple application built with Node.js and PostgreSQL, currently deployed on **Kubernetes (Minikube)** for learning purposes.  
+A simple application built with **Node.js and PostgreSQL**, currently deployed on **Kubernetes (Minikube)** for learning purposes.  
 This project demonstrates how to containerize an app, connect it to a PostgreSQL database, and run it on Kubernetes.
 
 ---
