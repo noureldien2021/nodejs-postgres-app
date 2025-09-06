@@ -42,9 +42,11 @@ docker-compose up --build
 
 ```bash
 minikube start
-
+```
+```bash
 kubectl apply -f k8s/
-
+```
+```bash
 kubectl get pods -n nodejs-app
 ```
 ## Access the Node.js application in your browser
