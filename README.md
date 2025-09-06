@@ -35,5 +35,13 @@ This project demonstrates how to containerize an app, connect it to a PostgreSQL
 # Build and start containers
 docker-compose up --build
 
+---
+## Deploy on Minikube
+
+1. Start Minikube:
+
+```bash
+minikube start
+
 
 
