@@ -54,7 +54,7 @@ kubectl get pods -n nodejs-app
 minikube service nodejs-app-service -n nodejs-app
 ```
 
-## What I Learned
+## Learning Outcomes
 
 During this project, I gained hands-on experience with:
 
