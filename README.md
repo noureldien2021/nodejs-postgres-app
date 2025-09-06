@@ -65,7 +65,14 @@ During this project, I gained hands-on experience with:
 - **Optional**: Preparing the app for cloud deployment (ECS / AWS) and learning about RDS connections and credentials.
 
 
+# Contact / Support
 
+For any questions or support regarding this project, you can reach me at:
+
+- **Email:** noureldiensami2021@gmail.com
+- **LinkedIn:** [Noureldin Sami](https://www.linkedin.com/in/noureldien-sami/)
+- **Website:** [Noureldin Sami](https://noureldien-sami2024.netlify.app/)  
+- **GitHub Issues:** [Open an Issue](https://github.com/noureldien2021/Project-2-Serverless-Image-Processing-with-S3-and-Lambda/issues)
 
 
 
