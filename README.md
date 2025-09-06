@@ -5,6 +5,8 @@ This project demonstrates how to containerize an app, connect it to a PostgreSQL
 
 ---
 
+![Architecture Diagram](https://github.com/noureldien2021/nodejs-postgres-app/blob/main/nodejs.jpg)
+
 ## Features
 
 - PostgreSQL database for data storage
